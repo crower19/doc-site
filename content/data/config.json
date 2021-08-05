@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "palette": "violet",
     "header": {
-        "title": "Libris",
+        "title": "CrowerTech",
         "logo_img": "images/logo.svg",
         "logo_img_alt": "Libris logo",
         "has_nav": true,
