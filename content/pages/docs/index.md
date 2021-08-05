@@ -1,5 +1,5 @@
 ---
-title: Bienvenidos!
+title: Bienvenidos al DocSite de CrowerTech!
 seo:
   title: Welcome to Libris
   description: This is the documentation page
