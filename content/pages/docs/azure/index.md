@@ -2,14 +2,14 @@
 title: Azure
 excerpt: In this section you'll find basic information about Libris and how to use it.
 seo:
-  title: Azure Overview
+  title: Azure
   description: This is the getting started page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Azure Overview
+      value: Azure
       keyName: property
     - name: 'og:description'
       value: This is the getting started page
@@ -17,7 +17,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Azure Overview
+      value: Azure
     - name: 'twitter:description'
       value: This is the getting started page
 layout: docs
