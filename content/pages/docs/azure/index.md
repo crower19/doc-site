@@ -17,7 +17,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Getting Started
+      value: Azure Overview
     - name: 'twitter:description'
       value: This is the getting started page
 layout: docs
