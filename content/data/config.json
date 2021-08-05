@@ -85,5 +85,6 @@
             }
         ]
     },
-    "domain": "https://doc-site-bc041.netlify.app"
+    "domain": "https://doc-site-bc041.netlify.app",
+    "favicon": "/images/avatar.jpg"
 }
