@@ -1,5 +1,5 @@
 ---
-title: Welcome to CrowerTech Docs
+title: Welcome to Docs
 seo:
   title: Welcome to Libris
   description: This is the documentation page
