@@ -9,7 +9,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Getting Started
+      value: Azure Overview
       keyName: property
     - name: 'og:description'
       value: This is the getting started page
