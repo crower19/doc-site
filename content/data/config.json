@@ -10,7 +10,7 @@
             {
                 "label": "Home",
                 "url": "/",
-                "style": "primary",
+                "style": "link",
                 "has_subnav": false
             },
             {
