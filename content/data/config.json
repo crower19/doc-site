@@ -56,7 +56,8 @@
                 "style": "primary",
                 "has_subnav": false
             }
-        ]
+        ],
+        "url": "CrowerTech"
     },
     "footer": {
         "content": "&copy; CrowerTech. All rights reserved. This site was created with Next.JS",
