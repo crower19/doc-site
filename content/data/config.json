@@ -59,7 +59,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; CrowerTech. All rights reserved. This site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Next.JS</a>",
+        "content": "&copy; CrowerTech. All rights reserved. This site was created with Next.JS</a>",
         "has_social": true,
         "social_links": [
             {
