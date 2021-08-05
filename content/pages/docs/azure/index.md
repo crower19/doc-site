@@ -1,5 +1,5 @@
 ---
-title: Azure Overview
+title: Azure
 excerpt: In this section you'll find basic information about Libris and how to use it.
 seo:
   title: Azure Overview
