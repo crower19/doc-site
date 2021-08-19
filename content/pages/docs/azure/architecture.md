@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Architecture
 weight: 0
 excerpt: lorem-ipsum
 seo:
